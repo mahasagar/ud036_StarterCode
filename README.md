@@ -9,4 +9,10 @@ Source code for a Movie Trailer website.
     $ python entertainment_center.py
 
   
-
+### Screenshots
+<p align="center">
+  <img src="https://res.cloudinary.com/mahasagar/image/upload/v1556750646/Screenshot_from_2019-05-02_04-08-50_kr2iop.png" width="350"/>
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/mahasagar/image/upload/v1556750646/Screenshot_from_2019-05-02_04-08-59_dk7kft.png" width="350"/>
+</p>
